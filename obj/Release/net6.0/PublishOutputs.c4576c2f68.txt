@@ -1,0 +1,7 @@
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\StudentInfoSite.exe
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\StudentInfoSite.dll
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\StudentInfoSite.deps.json
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\StudentInfoSite.runtimeconfig.json
+D:\UMSF\IV COURSE\II SEMESTR\ASP.NET\TASK 1\StudentInfoSite\StudentInfoSite\obj\Release\net6.0\PubTmp\Out\StudentInfoSite.pdb

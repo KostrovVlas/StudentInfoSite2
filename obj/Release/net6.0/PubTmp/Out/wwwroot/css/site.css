@@ -1,0 +1,82 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f5;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: #333;
+}
+
+.student-card {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 40px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.student-photo {
+    flex: 0 0 250px;
+    margin-right: 20px;
+}
+
+    .student-photo img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+.student-info {
+    flex: 1;
+    min-width: 200px;
+}
+
+    .student-info p {
+        font-size: 18px;
+        margin: 12px 0;
+    }
+
+    .student-info strong {
+        color: #444;
+    }
+
+/* Адаптивність */
+@media (max-width: 768px) {
+    .student-card {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .student-photo {
+        margin: 0 0 20px 0;
+        width: 60%;
+    }
+
+    .student-info {
+        width: 100%;
+    }
+}
